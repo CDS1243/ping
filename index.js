@@ -21,7 +21,7 @@ app.listen(PORT, () => {
 const PING_URLS = [
     "https://l16last-0p1o.onrender.com", // Your main bot URL
     "https://ping-xzu3.onrender.com", // Added comma here
-    "https://l16pay.onrender.com"    // Added comma here if more URLs follow
+    "https://l16pay-djmh.onrender.com"    // Added comma here if more URLs follow
 ];
 
 const INTERVAL = 3 * 60 * 1000; // Ping every 3 minutes
